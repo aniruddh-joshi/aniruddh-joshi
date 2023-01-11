@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniruddh-joshi" alt="aniruddh-joshi" /></a> </p>
 
-- 🔭 I’m currently working on **will update soon**
+- 🔭 I’m currently working on **WEB DEVELOPMENT**
 
 - 🌱 I’m currently learning **DSA**
 
