@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DATA STRUCTURE**
 
-- 💬 Ask me about **anything about C,C++**
+- 💬 Looking forward to **Collaborate on Projects**
 
 - 📫 How to reach me **aniruddh.joshi2904@gmail.com**
 
