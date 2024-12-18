@@ -7,7 +7,7 @@
 
 - 🔭 I’m passionate about learning **NEW TECHNOLOGIES**
 
-- 🌱 I’m currently learning **DATA STRUCTURE**
+- 🤖 I’m currently learning **Artificial Intelligence & Machine Learning**
 
 - 💬 Looking forward to **Collaborate on Projects**
 
